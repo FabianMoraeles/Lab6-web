@@ -57,7 +57,10 @@ ligatracker
   - awayTeam
   - matchDate
 
-5️. Levanta el backend en el puerto 8080
+5. Archivo .evn
+Busca el archivo .env.example, copialo, cambiale el nombre a ".env" y cambia en DataBase=ligatracker. Pues desconosco por qué se cambia.
+
+6. Levanta el backend en el puerto 8080
 
 Ve a la carpeta donde está tu proyecto Laravel (por ejemplo: `firstwebsite`) y ejecuta en la terminal:
 
@@ -66,7 +69,8 @@ composer run serve8080
 Esto levantará el backend en:
 http://localhost:8080/api/games
 
-6️. Abre el frontend en tu navegador
+
+7. Abre el frontend en tu navegador
 
 Abre el archivo:
 public/LaLigaTracker.html
