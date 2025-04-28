@@ -1,0 +1,2 @@
+# Lab6-web
+Para optar a una nota distinta de 0 deben realizar un juego de memoria. El juego consiste en una grid de al menos 4x4 tarjetas. Las tarjetas se deben mostrar boca abajo para el jugador al inicio del juego y deben voltearse cuando se hace clic. Si la pareja no coincide, deben esperar algunos segundos y volver a voltear las tarjetas. El juego termina cuando se voltean todas las tarjetas. Deben subir su código al server y entregar la url en la que quedo publicado. El juego debe ser implementado en React en un solo archivo .html. Deben subir su archivo HTML a canvas.
